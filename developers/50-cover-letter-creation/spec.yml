@@ -4,9 +4,9 @@ step:
   reviewable: true # Шаг нужно сдать на проверку?
   tasks:
     - |
-      Прочтите статью Lead HR Хекслета Людмилы Семеновой — 9 практических советов, как откликаться на вакансии
+      Прочтите статью Lead HR Хекслета Людмилы Семеновой — [9 практических советов, как откликаться на вакансии] (https://www.google.com/url?q=https://ru.hexlet.io/blog/posts/kak-pravilno-otkliknutsya-na-vakansiyu-9-sovetov-ot-hr-menedzhera-heksleta-lyudmily-semyonovoy&sa=D&source=docs&ust=1682066435326964&usg=AOvVaw0Ypv21DeDAC6sVwwdQqLVc "Как правильно откликнуться на вакансию")
     - |
-      Познакомьтесь со статьей — Как джуну написать сопроводительное письмо 
+      Прочтите статью — [Как джуну написать сопроводительное письмо] (https://ru.hexlet.io/blog/posts/kak-dzhunu-napisat-soprovoditelnoe-pismo "Как джуну написать сопроводительное письмо")
     - |
       Изучите чек-лист сопроводительного письма. Он поможет вам проверить, насколько оно кастомизировано
     - |
