@@ -1,0 +1,11 @@
+---
+step:
+  name: Практика в Open Source 
+  reviewable: false # Шаг нужно сдать на проверку?
+  tasks:
+    - |
+      Присоединитесь к каналу [internship] (https://chat.hexlet.io/students/channels/internship "internship") в Mattermost 
+    - |
+      Попросите помочь вам подобрать проект 
+    - |
+      Приступайте к проекту!=)
