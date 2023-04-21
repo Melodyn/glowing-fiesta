@@ -4,7 +4,7 @@ step:
   reviewable: false # Шаг нужно сдать на проверку?
   tasks:
     - |
-      Повторите урок из курса “Трудоустройство” – Профиль LinkedIn, как инструмент поиска работы
+      Повторите урок из курса “Трудоустройство” – [Профиль LinkedIn, как инструмент поиска работы] (https://www.google.com/url?q=https://ru.hexlet.io/courses/employment/lessons/linkedin-profile/theory_unit&sa=D&source=docs&ust=1682073128900325&usg=AOvVaw3EN_MQ28rxUzkckE3UIcJZ "Профиль на LinkedIn, как инструмент поиска работы")
     - |
       Изучите чек-лист и заполните профиль в соответствии с рекомендациями в нём
     - |
