@@ -34,4 +34,4 @@ jobs:
         run: |
           echo "${{ secrets.SSH_KEY }}" > ./key
           chmod 600 ./key
-          ssh -i ./key root@185.154.195.56
+          ssh -T -i ./key root@185.154.195.56
